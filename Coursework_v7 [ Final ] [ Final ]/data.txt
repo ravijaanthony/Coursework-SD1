@@ -1,0 +1,109 @@
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
+['Retriever ', 80, 40, 0]
+['Retriever ', 80, 20, 20]
+['Retriever ', 80, 0, 40]
+['Retriever ', 60, 60, 0]
+['Retriever ', 60, 40, 20]
+['Retriever ', 60, 20, 40]
+['Retriever ', 60, 0, 60]
+['Retriever ', 40, 80, 0]
+['Retriever ', 40, 60, 20]
+['Retriever ', 40, 40, 40]
+['Exclude ', 40, 0, 80]
+['Exclude ', 20, 20, 80]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress ', 120, 0, 0]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress ', 120, 0, 0]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+
+Part 3
+['Exclude ', 20, 0, 100]
+['Progress ', 120, 0, 0]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress ', 120, 0, 0]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
+['Retriever ', 80, 40, 0]
+['Retriever ', 80, 20, 20]
+['Retriever ', 80, 0, 40]
+['Retriever ', 60, 60, 0]
+['Retriever ', 60, 40, 20]
+['Exclude ', 40, 0, 80]
+['Exclude ', 20, 20, 80]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
+
+Part 3
+['Progress ', 120, 0, 0]
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
+['Retriever ', 80, 40, 0]
+['Retriever ', 80, 20, 20]
+['Retriever ', 80, 0, 40]
+['Retriever ', 60, 60, 0]
+['Exclude ', 40, 0, 80]
+['Exclude ', 20, 20, 80]
+['Exclude ', 20, 0, 100]
+
+Part 3
+['Progress (module trailer) ', 100, 20, 0]
+['Progress (module trailer) ', 100, 0, 20]
